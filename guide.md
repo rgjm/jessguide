@@ -1,7 +1,6 @@
 # The Jess Guide to L6ing
 
-- It is your job to define your role. Eg “I am a software engineer working in security. My job is to build software tools which help security engineers get their work done more effectively.”
-- Decide what should exist, how the system should work, and produce designs accordingly.
+- It is your job to define your role. Eg “I am a software engineer working in security. My job is to build software tools which help security engineers get their work done more effectively.” Once you've defined the role, decide what should exist which doesn't already, how it should work, and regularly produce designs accordingly.
 - You need to get other people to work on your proposals. Align with their incentives - eg they are L3 and need to show substantial implementation work to get to L4, so give them an appropriately sized piece of work. Pretend you’re their manager (a good manager who is trying to progress their career). Know where they are in their level, incentivise them based on their career trajectory. Eg they don’t have too many docs so ask them to write one.
 - Hand out peer bonuses to everyone who you want to work with.
 - At L5, you can be given problems and independently produce the solution. At L6, you need to define the problem itself and then outline the solution, while largely delegating the implementation to others.
